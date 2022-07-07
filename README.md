@@ -1,4 +1,4 @@
-# [learning] Beetroot Paul's take on Dylan Bennett's Top-Down Adventure Game Tutorial
+# [learning] Beetroot Paul's take on Dylan Bennett's PICO-8 Top-Down Adventure Game Tutorial
 
 Tutorial YouTube playlist: https://www.youtube.com/watch?v=J1wvvbVQ5zo&list=PLdLmU93eWisKpyk1WZywUSYAq5dkCPFIv
 
